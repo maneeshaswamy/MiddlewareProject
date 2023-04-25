@@ -8,7 +8,7 @@ def welcome_view(request):
 
 # Create your views here.
 def home_page_view(request):
-	return HttpResponse('<h1> Hello This is from home page view </h1><hr />')
+	return HttpResponse('<h1>$$$Hello This is from home page view$$$ </h1><hr />')
 
 
 # Create your views here.
